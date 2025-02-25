@@ -37,6 +37,21 @@
   perspective: 1000px;
 }
 
+#section2{
+  position: relative;
+  perspective: 1200px;
+}
+
 #tiltDiv{
   width: fit-content;
+}
+
+.rotateText{
+  transform-origin: 100% 75%;
+  overflow-y: hidden !important;
+}
+
+* {
+  -ms-overflow-style: none;  
+  scrollbar-width: none; 
 }
