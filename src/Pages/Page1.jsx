@@ -31,7 +31,7 @@ const page1 = () => {
         mouseMoving(e)
     }} className='h-screen  p-4 text-white'>
         <div id='page1-in' className='h-full  w-full p-10 rounded-[40px] shadow-xl shadow-gray-300 bg-cover bg-[url(./assets//ANZO.avif)]'>
-            <img className='h-20 ml-6' src="https://static.wixstatic.com/media/f1c650_35a00b1fe6ce403eb237970ec8d34f79~mv2.png/v1/fill/w_99,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2053.png" alt="" />
+            <img className='h-20 ml-6 fixed' src="https://static.wixstatic.com/media/f1c650_35a00b1fe6ce403eb237970ec8d34f79~mv2.png/v1/fill/w_99,h_99,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Frame%2053.png" alt="" />
             <TiltText ab={tiltRef} />
             <Page1Bottom />
         </div>

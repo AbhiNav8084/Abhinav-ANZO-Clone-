@@ -41,7 +41,8 @@ const Page2 = () => {
             <div className='rotateText'>
                 <h1 className='text-[42vw] text-black font-[anzo6] uppercase leading-[35vw]'>THAT</h1>
             </div>
-            <div className='rotateText'>
+            <div className='rotateText relative'>
+                {/* <canvas className='h-full -translate-y-8 w-[70%] left-1/2 -translate-x-1/2 absolute bg-red-400'></canvas> */}
                 <h1 className='text-[42vw] text-black font-[anzo6] uppercase leading-[35vw]'>WORKS!</h1>
             </div>
 

@@ -39,7 +39,7 @@
 
 #section2{
   position: relative;
-  perspective: 1200px;
+  perspective: 1250px;
 }
 
 #tiltDiv{
@@ -55,3 +55,4 @@
   -ms-overflow-style: none;  
   scrollbar-width: none; 
 }
+
