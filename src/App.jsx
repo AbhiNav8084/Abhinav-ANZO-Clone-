@@ -1,5 +1,5 @@
 import React from 'react'
-import Page1 from './pages/page1'
+import Page1 from './pages/Page1'
 import Header from './components/Header'
 import Page2 from './Pages/Page2'
 import Page3 from './Pages/Page3'
